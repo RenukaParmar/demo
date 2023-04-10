@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "renuka",
+      "email": "renu@gmail.com",
+      "passwprd": "renu@123"
+    },
+    {
+      "id": 2,
+      "name": "pankaj",
+      "email": "pankaj@gmail.com",
+      "passwprd": "pankaj@123"
+    },
+    {
+      "name": "Renuka parmar",
+      "email": "renuedasdy@gmail.com",
+      "password": "d",
+      "id": 3
+    },
+    {
+      "name": "re",
+      "email": "rinu@gmail.com",
+      "password": "sdas",
+      "id": 4
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "post": "heyy i am abc",
+      "content": "anything"
+    },
+    {
+      "id": 2,
+      "post": "heyy i am abc",
+      "content": "anything"
+    },
+    {
+      "post": "sdfwe",
+      "content": "asdwa",
+      "id": 3
+    },
+    {
+      "post": "",
+      "content": "",
+      "id": 4
+    },
+    {
+      "post": "",
+      "content": "",
+      "id": 5
+    }
+  ]
+}
